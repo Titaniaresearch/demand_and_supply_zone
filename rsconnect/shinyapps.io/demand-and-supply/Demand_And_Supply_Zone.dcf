@@ -1,0 +1,13 @@
+name: Demand_And_Supply_Zone
+title: Demand_And_Supply_Zone
+username:
+account: demand-and-supply
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3986226
+bundleId: 5045818
+url: https://demand-and-supply.shinyapps.io/Demand_And_Supply_Zone/
+when: 1631948344.41326
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Aggressive_Movement.log|Aggressive_Movement.R|auto_test.log|auto_test.R|demand_and_supply_automation.R|test.txt
